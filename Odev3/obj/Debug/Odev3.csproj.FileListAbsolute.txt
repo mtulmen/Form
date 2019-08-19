@@ -1,0 +1,15 @@
+C:\Users\mustafa\source\repos\Odev3\Odev3\bin\Debug\Odev3.exe.config
+C:\Users\mustafa\source\repos\Odev3\Odev3\bin\Debug\Odev3.exe
+C:\Users\mustafa\source\repos\Odev3\Odev3\bin\Debug\Odev3.pdb
+C:\Users\mustafa\source\repos\Odev3\Odev3\bin\Debug\DataAccessLayer.dll
+C:\Users\mustafa\source\repos\Odev3\Odev3\bin\Debug\DataAccessLayer.pdb
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.csprojAssemblyReference.cache
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.LoginFrm.resources
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.MenuForm.resources
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.Properties.Resources.resources
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.csproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.csproj.CopyComplete
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.exe
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.pdb
+C:\Users\mustafa\source\repos\Odev3\Odev3\obj\Debug\Odev3.BaseFrm.resources
